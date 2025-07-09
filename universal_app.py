@@ -10,7 +10,7 @@ from pathlib import Path
 st.title("📄 Barema - Produção Científica - UESC")
 
 # === Lista de docentes
-    dados_docentes = [
+dados_docentes = [
 #        {
 #            "CPF": "75135230530",
 #            "Nome": "Cristianne Viana de Carvalho",
