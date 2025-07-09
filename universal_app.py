@@ -7,7 +7,7 @@ import pandas as pd
 from io import BytesIO
 from pathlib import Path
 
-st.title("📄 Barema - Produção Científica - UESC")
+st.title("📄 Edital Universal - Produção Científica - UESC")
 
 # === Lista de docentes
 dados_docentes = [
