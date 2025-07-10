@@ -29,14 +29,60 @@ dados_docentes = [
 #    ]
 ###### antigo 
 #[
-    {"CPF": "78209587749", "Nome": "andre", "DataNascimento": "01011970"},
-    {"CPF": "03733046765", "Nome": "bruno", "DataNascimento": "01021970"},
-    {"CPF": "16752072833", "Nome": "fernanda", "DataNascimento": "01011972"},
-    {"CPF": "33405751268", "Nome": "jorge", "DataNascimento": "01011972"},
-    {"CPF": "10818911816", "Nome": "Vera Rosa Capelossi", "DataNascimento": "01011972"},
-    {"CPF": "55302220563", "Nome": "Jaubert", "DataNascimento": "01011972"}
+#    {"CPF": "78209587749", "Nome": "andre", "DataNascimento": "01011970"},
+#    {"CPF": "03733046765", "Nome": "bruno", "DataNascimento": "01021970"},
+#    {"CPF": "16752072833", "Nome": "fernanda", "DataNascimento": "01011972"},
+#    {"CPF": "33405751268", "Nome": "jorge", "DataNascimento": "01011972"},
+#    {"CPF": "10818911816", "Nome": "Vera Rosa Capelossi", "DataNascimento": "01011972"},
+#    {"CPF": "55302220563", "Nome": "Jaubert", "DataNascimento": "01011972"}
     
+#]
+
+# [
+    {"CPF": "92200435134", "Nome": "Danilo Simonini Teixeira", "DataNascimento": "01011970"},
+    {"CPF": "17684134876", "Nome": "Rodrigo Luis Silva Ribeito", "DataNascimento": "01011970"},
+    {"CPF": "10202806707", "Nome": "Maíra Benchimol de Souza", "DataNascimento": "01011970"},
+    {"CPF": "66336368653", "Nome": "Rosilene Aparecida de Oliveira", "DataNascimento": "01011970"},
+    {"CPF": "77609530549", "Nome": "MICHELLE ARAÚJO MOREIRA", "DataNascimento": "01011970"},
+    {"CPF": "55302220563", "Nome": "Jauberth Weyll Abijaude", "DataNascimento": "01011970"},
+    {"CPF": "10000793680", "Nome": "Natânia Silva Ferreira", "DataNascimento": "01011970"},
+    {"CPF": "02444400500", "Nome": "Milena Magalhães Aleluia", "DataNascimento": "01011970"},
+    {"CPF": "63066378004", "Nome": "Antônio Carlos Luz Costa", "DataNascimento": "01011970"},
+    {"CPF": "07947729603", "Nome": "Juneo Freitas Silva", "DataNascimento": "01011970"},
+    {"CPF": "41700031520", "Nome": "Ivon Pinheiro Lôbo", "DataNascimento": "01011970"},
+    {"CPF": "01970099720", "Nome": "Andréa da Silva Gomes", "DataNascimento": "01011970"},
+    {"CPF": "00171845765", "Nome": "Carlos Priminho Pirovani", "DataNascimento": "01011970"},
+    {"CPF": "78209587749", "Nome": "André Luís Batista Ribeiro", "DataNascimento": "01011970"},
+    {"CPF": "03485777536", "Nome": "Maysa Santos Barbosa", "DataNascimento": "01011970"},
+    {"CPF": "86924940544", "Nome": "Márcio Luis Oliveira Ferreira", "DataNascimento": "01011970"},
+    {"CPF": "71203095015", "Nome": "Marcio Gilberto Cardoso Costa", "DataNascimento": "01011970"},
+    {"CPF": "08671384675", "Nome": "Erickson Fabiano Moura Sousa Silva", "DataNascimento": "01011970"},
+    {"CPF": "18441387800", "Nome": "Erica Cristina Almeida", "DataNascimento": "01011970"},
+    {"CPF": "47822961500", "Nome": "Cléa dos Santos Ferreira Mariano", "DataNascimento": "01011970"},
+    {"CPF": "04464336671", "Nome": "Roberto Ferreira Machado Michel", "DataNascimento": "01011970"},
+    {"CPF": "07660646702", "Nome": "Raquel da Silva Ortega", "DataNascimento": "01011970"},
+    {"CPF": "11243575646", "Nome": "Maíra dos Santos Costa", "DataNascimento": "01011970"},
+    {"CPF": "84786787604", "Nome": "Ana Paula Trovatti Uetanabaro", "DataNascimento": "01011970"},
+    {"CPF": "05795881732", "Nome": "Dany Sanchez Dominguez", "DataNascimento": "01011970"},
+    {"CPF": "17332177897", "Nome": "Martha Ximena Torres Delgado", "DataNascimento": "01011970"},
+    {"CPF": "05911907982", "Nome": "Karla Furtado Andriani", "DataNascimento": "01011970"},
+    {"CPF": "84786787604", "Nome": "Ana Paula Trovatti Uetanabaro", "DataNascimento": "01011970"},
+    {"CPF": "17396142830", "Nome": "Silvano da Conceição", "DataNascimento": "01011970"},
+    {"CPF": "05911207982", "Nome": "Karla Furtado Andriani", "DataNascimento": "01011970"},
+    {"CPF": "97374962568", "Nome": "Erik Galvão Paranhos da Silva", "DataNascimento": "01011970"},
+    {"CPF": "98491172572", "Nome": "Cleverson Alves de Lima", "DataNascimento": "01011970"},
+    {"CPF": "12352279879", "Nome": "Alexandre Schiavetti", "DataNascimento": "01011970"},
+    {"CPF": "01349454508", "Nome": "Rodolpho Santos Telles de Menezes", "DataNascimento": "01011970"},
+    {"CPF": "05731005516", "Nome": "Lucas Xavier Trindade", "DataNascimento": "01011970"},
+    {"CPF": "02854167155", "Nome": "Paula Rocha Gouvêa Brener", "DataNascimento": "01011970"},
+    {"CPF": "06412223517", "Nome": "Luciano Cardoso Santos", "DataNascimento": "01011970"},
+    {"CPF": "11341231836", "Nome": "Eduardo Lopes Piris", "DataNascimento": "01011970"},
+    {"CPF": "54599792691", "Nome": "Marco Antonio Costa", "DataNascimento": "01011970"},
+    {"CPF": "13115811896", "Nome": "Paulo Eduardo Ambrosio", "DataNascimento": "01011970"},
+    {"CPF": "06118645680", "Nome": "Cíntia Borges de Almeida", "DataNascimento": "01011970"},
+    {"CPF": "52976777500", "Nome": "Eurivalda Ribeiro dos Santos Santana", "DataNascimento": "01011970"}
 ]
+
 
 # === Função para buscar dados da API
 def consultar_dados(docente):
