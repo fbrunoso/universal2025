@@ -80,7 +80,15 @@ dados_docentes = [
     {"CPF": "54599792691", "Nome": "Marco Antonio Costa", "DataNascimento": "01011970"},
     {"CPF": "13115811896", "Nome": "Paulo Eduardo Ambrosio", "DataNascimento": "01011970"},
     {"CPF": "06118645680", "Nome": "Cíntia Borges de Almeida", "DataNascimento": "01011970"},
-    {"CPF": "52976777500", "Nome": "Eurivalda Ribeiro dos Santos Santana", "DataNascimento": "01011970"}
+    {"CPF": "52976777500", "Nome": "Eurivalda Ribeiro dos Santos Santana", "DataNascimento": "01011970"},
+    {"CPF": "75135230530", "Nome": "Cristianne Viana de Carvalho", "DataNascimento": "01011970"},
+    {"CPF": "03707783162", "Nome": "Raner José Santana Silva", "DataNascimento": "01011970"},
+    {"CPF": "01665612908", "Nome": "David Ohara", "DataNascimento": "01011970"},
+    {"CPF": "09051646798", "Nome": "Victor Goyannes Dill Orrico", "DataNascimento": "01011970"},
+    {"CPF": "79019684787", "Nome": "Erminda da Conceição Guerreiro Couto", "DataNascimento": "01011970"},
+    {"CPF": "52273792620", "Nome": "Jussara Tânia Silva Moreira", "DataNascimento": "01011970"},
+    {"CPF": "05335998571", "Nome": "Rodrigo da Luz Silva", "DataNascimento": "01011970"},
+    {"CPF": "01448696917", "Nome": "Silvio Aparecido Fonseca", "DataNascimento": "01011970"}
 ]
 
 
